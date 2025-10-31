@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a1802a"/>
+      <stop offset="50%" style="stop-color:#ecd692"/>
+      <stop offset="100%" style="stop-color:#a3822c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main logo circle -->
+  <circle cx="16" cy="16" r="15" fill="url(#grad1)" stroke="#89673b" stroke-width="0.5"/>
+
+  <!-- Arabic text "كون" -->
+  <text x="16" y="21" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">كون</text>
+
+  <!-- Decorative elements -->
+  <circle cx="16" cy="10" r="2" fill="white" opacity="0.8"/>
+  <rect x="8" y="25" width="16" height="1" fill="white" opacity="0.6"/>
+</svg>
